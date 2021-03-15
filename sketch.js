@@ -14,10 +14,6 @@ var block1,block2,block3,block4,block5,
     block16,block17,block18,block19,block20,
     block21,block22,block23,block24,block25;
 
-function preload(){
-
-}
-
 function setup(){
 createCanvas(1400,400);
 engine = Engine.create();
